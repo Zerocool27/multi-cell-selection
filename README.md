@@ -22,4 +22,4 @@ bower install multi-cell-select --save
 The directive stores the selected cell ids in the array "multi-cell-ids". You should assign it to another variable to access it
 in your controller. 
  
- You can find working example here: ```html <a href="https://jsfiddle.net/Zerocool27/dg98mc9u/16/" target="_blank">Working Example on JSFiddle</a>```
+ You can find working example here: <a href="https://jsfiddle.net/Zerocool27/dg98mc9u/16/" target="_blank">Multi-Cell-Select Example on JSFiddle</a>
